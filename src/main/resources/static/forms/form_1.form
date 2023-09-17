@@ -1,0 +1,36 @@
+{
+  "components": [
+    {
+      "label": "Name",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1v3xwts",
+        "columns": null
+      },
+      "id": "Field_0cgonto",
+      "key": "field_00hivz5",
+      "description": "Name"
+    },
+    {
+      "label": "Address",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1s1h7zl",
+        "columns": null
+      },
+      "id": "Field_0dgaj6f",
+      "key": "field_1ys3o49",
+      "description": "Address",
+      "defaultValue": "Kolkata"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0exglhd",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.11.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 8
+}
